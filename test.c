@@ -4,6 +4,6 @@
 
 int main(void)
 {
-	printf("First Push Repository");
+	printf("Change Push Repository");
 	return 0;
 }
