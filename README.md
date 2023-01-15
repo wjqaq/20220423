@@ -129,4 +129,4 @@ int main(void)
 [bilibili 弹幕网](https://www.bilibili.com "点击进入b站")<br>
 [Github](https://github.com "点击进入Github"）
 
-![壁纸截图](D:\BaiduNetdiskDownload\412\女仆原画 "图片标题")
+![壁纸截图](https://i.postimg.cc/VNPR4T3C/3.jpg "图片标题")
