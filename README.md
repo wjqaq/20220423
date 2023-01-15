@@ -35,6 +35,98 @@
 
 #### 引用
 > 一级引用文本
->> 二级引用文本
->>> 三级引用文本
->>>> 四级引用文本
+> > 二级引用文本
+> > > 三级引用文本
+> > >
+> > > > 四级引用文本
+
+## 列表
+
+#### 有序列表
+
+1. 进程知识
+   1. 进程间通讯
+      1. 管道
+      2. MMAP
+      3. 消息队列
+   2. 进程关系
+   3. 进程安全
+2. 线程相关
+3. 信号相关
+4. 网络相关
+
+#### 无需列表
+
+* 进程知识
+   * 进程间通信
+      * 管道
+      * MMAP
+      * 消息队列
+   * 进程关系
+   * 进程安全
+* 线程相关
+* 信号相关
+* 网络相关
+
+#### 混合列表
+
+* 热门游戏
+   1. 鹅鸦杀
+   2. CSGO
+   3. 道德与法治5
+   4. 王者荣耀
+
+1. 获奖游戏
+   * GTA
+   * 老马
+   * 原神
+   * FIFA23
+
+## 表格
+
+游戏名|游戏价格|游戏评分|游戏热度
+--|:--:|:--:|--:
+GTA|299|90|75%
+FIFA23|299|89|89%
+原神|299|95|20%
+
+## 代码片段
+
+```c
+#include <stdio.h>
+#include <unistd.h>
+#include <string.h>
+
+int main(void)
+{
+	printf("test output....\n");
+	return 0;
+}
+```
+
+```bash
+	git add filename
+	git add rm filename
+	git add remote add origin SSH_address
+	echo "数据回显"
+```
+
+```cpp
+	//c++代码片段
+```
+
+```python
+	import os:
+	#python 的代码片段
+```
+
+```java
+	//插入JAVA 代码片段
+```
+
+## 插入图片和链接
+
+[bilibili 弹幕网](https://www.bilibili.com "点击进入b站")<br>
+[Github](https://github.com "点击进入Github"）
+
+![壁纸截图](D:\BaiduNetdiskDownload\412\女仆原画 "图片标题")
